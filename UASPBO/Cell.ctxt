@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Cell
+comment0.text=\r\n\ Cell\ -\ Represents\ an\ empty\ cell\ in\ the\ Tic\ Tac\ Toe\ grid.\r\n\ When\ clicked,\ places\ an\ X\ or\ O\ Actor\ on\ it.\r\n\r\n\ Revised\:\ Uses\ GreenfootImage\ to\ draw\ the\ cell\ dynamically\r\n\ instead\ of\ loading\ "cell.png".\r\n
+comment1.params=row\ col
+comment1.target=Cell(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\ -\ check\ for\ mouse\ clicks.\r\n\ Logic\ remains\ the\ same\ as\ your\ original\ code.\r\n
+comment3.params=
+comment3.target=int\ getRow()
+comment4.params=
+comment4.target=int\ getCol()
+comment5.params=occupied
+comment5.target=void\ setOccupied(boolean)
+comment6.params=
+comment6.target=boolean\ isOccupied()
+numComments=7

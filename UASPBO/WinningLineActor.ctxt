@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WinningLineActor
+comment0.text=\r\n\ WinningLineActor\ -\ Draws\ a\ winning\ line\ (horizontal,\ vertical,\ or\ diagonal).\r\n
+comment1.params=isDiagonal\ rotation
+comment1.target=WinningLineActor(boolean,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

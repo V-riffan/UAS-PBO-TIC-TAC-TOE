@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=OActor
+comment0.text=\r\n\ OActor\ -\ Represents\ the\ O\ symbol\ as\ a\ separate\ Actor.\r\n
+comment1.params=
+comment1.target=OActor()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

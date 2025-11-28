@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ResetButton
+comment0.text=\r\n\ ResetButton\ -\ Resets\ scores\ in\ menu\ or\ game\ in\ play.\r\n
+comment1.params=
+comment1.target=ResetButton()
+comment2.params=
+comment2.target=void\ act()
+numComments=3
